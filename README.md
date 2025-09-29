@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rubesh karthik SS</h1>
-<h3 align="center">🎓 Final Year CSE Student 
-  💻 Interested in Machine Learning 
+<h1 align="center">💫About Me:  I'm Rubesh karthik SS</h1>
+<h3 align="center">
+  🎓 Final Year CSE Student <br>
+  💻 Interested in Data Analytics <br>
   📚 Python lib:Open CV ,Mediapipe and NumPy
 </h3>
 
