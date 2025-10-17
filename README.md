@@ -2,7 +2,7 @@
 <h3 align="center">
   🎓 Final Year CSE Student <br>
   💻 Interested in Data Analytics <br>
-  📚 Python lib:Open CV ,Mediapipe and NumPy
+  📚 Python lib:Open CV ,Mediapipe , NumPy and pandas
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubesh166&label=Profile%20views&color=0e75b6&style=flat" alt="rubesh166" /> </p>
